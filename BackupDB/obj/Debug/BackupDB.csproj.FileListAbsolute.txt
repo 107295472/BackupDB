@@ -1,0 +1,7 @@
+E:\work\app\BackupDB\BackupDB\obj\Debug\BackupDB.Properties.Resources.resources
+E:\work\app\BackupDB\BackupDB\obj\Debug\BackupDB.csproj.GenerateResource.Cache
+E:\work\app\BackupDB\BackupDB\bin\Debug\BackupDB.exe
+E:\work\app\BackupDB\BackupDB\bin\Debug\BackupDB.pdb
+E:\work\app\BackupDB\BackupDB\obj\Debug\BackupDB.MainDB.resources
+E:\work\app\BackupDB\BackupDB\obj\Debug\BackupDB.exe
+E:\work\app\BackupDB\BackupDB\obj\Debug\BackupDB.pdb
